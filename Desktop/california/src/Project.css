@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Readex+Pro:wght@160..700&display=swap");
+
+* {
+  font-family: Readex Pro;
+}
+.lastBox {
+  li {
+    font-family: Inter;
+  }
+  p {
+    font-family: Inter;
+  }
+}
+.links {
+  span {
+    margin-left: 5px;
+    font-family: Inter;
+  }
+}
